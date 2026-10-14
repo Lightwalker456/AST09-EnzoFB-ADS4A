@@ -10,6 +10,3 @@ __pycache__/
 
 # Cache do Flake8
 .flake8_cache/
-
-# Cache do Git
-.git/
