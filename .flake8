@@ -7,8 +7,7 @@ max-complexity = 3
 
 # Pastas que o Flake8 deve ignorar completamente
 exclude = 
-    .git, 
-    __pycache__, 
-    */__pycache__/*, 
-    .pytest_cache, 
+    .git,
+    __pycache__,
+    .pytest_cache,
     .venv
