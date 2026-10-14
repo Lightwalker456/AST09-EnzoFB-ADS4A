@@ -6,8 +6,4 @@ max-line-length = 100
 max-complexity = 3
 
 # Pastas que o Flake8 deve ignorar completamente
-exclude = 
-    .git,
-    __pycache__,
-    .pytest_cache,
-    .venv
+exclude = .git, __pycache__, .pytest_cache, .venv
