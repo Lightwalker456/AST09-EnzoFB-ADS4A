@@ -1,0 +1,15 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Cache do Pytest
+.pytest_cache/
+
+# Ambiente Virtual
+.venv/
+
+# Cache do Flake8
+.flake8_cache/
+
+# Cache do Git
+.git/
